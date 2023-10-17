@@ -1,0 +1,55 @@
+.services{
+    
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #000000;
+    margin-bottom: 5vh;
+}
+
+
+.assis{
+    position: relative;
+    background-image: url(/assets/img/homme-assis-batiment.jpg);
+    height: 52vh;
+    
+}
+
+
+.passeport{
+    position: relative;
+    background-image: url(/assets/img/passport.jpg);
+    height: 25vh;
+    margin-bottom: 2vh;
+}
+
+.balloon{
+    position: relative;
+    background-image: url(/assets/img/montgolfiere.jpg);
+    height: 25vh;
+}
+
+
+// .txtServices{
+//     position: absolute;
+// }
+
+.txtAssis{
+    position: absolute;
+    color: $textColorFooter;
+    text-align: center;
+    top: 25vh;
+    right: 25vh;
+}
+
+.txtPassBalloon{
+    position: absolute;
+    color: $textColorFooter;
+    text-align: center;
+    top: 12vh;
+    right: 25vh;
+}
+
+.arrow{
+    color: rgb(231, 129, 107);
+}
