@@ -44,6 +44,10 @@ ul li {
   list-style-type: none;
 }
 
+footer div {
+  padding-bottom: 1vh;
+}
+
 .rectangle1 {
   background-color: rgb(231, 129, 107);
   color: white;
